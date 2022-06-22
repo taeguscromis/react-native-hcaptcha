@@ -34,8 +34,8 @@
   "peerDependencies": {
     "react": "*",
     "react-native": "*",
-    "react-native-modal": ">=11.5.4",
-    "react-native-webview": ">=9.0.1"
+    "react-native-modal": "^13.0.1",
+    "react-native-webview": "^11.22.3"
   },
   "contributors": [
     {
